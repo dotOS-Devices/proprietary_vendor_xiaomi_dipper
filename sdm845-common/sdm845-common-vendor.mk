@@ -789,5 +789,4 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    WfdService \
-    WfdCommon
+    WfdService

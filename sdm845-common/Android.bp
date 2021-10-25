@@ -154,9 +154,3 @@ android_app_import {
 	system_ext_specific: true,
 }
 
-dex_import {
-	name: "WfdCommon",
-	owner: "xiaomi",
-	jars: ["proprietary/system/framework/WfdCommon.jar"],
-}
-
