@@ -812,7 +812,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdService \
-    WfdCommon \
     audiosphere \
     com.qti.dpmframework \
     dpmapi \
