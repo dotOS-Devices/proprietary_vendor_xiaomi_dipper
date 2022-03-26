@@ -813,7 +813,11 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdService \
     audiosphere \
+    tcmclient \
     com.qti.dpmframework \
+    com.qualcomm.qti.imscmservice-V2.0-java \
+    com.qualcomm.qti.imscmservice-V2.1-java \
+    com.qualcomm.qti.imscmservice-V2.2-java \
     dpmapi \
     qcrilhook \
     qti-telephony-common \
